@@ -2,4 +2,4 @@
 
 Demo project for SoftUni Fundamentals.
 
-This repository also conteins cats and dogs !
+This repository also conteins cats and dogs ! Some rabbits too...

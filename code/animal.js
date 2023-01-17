@@ -8,3 +8,10 @@ class Dog {
     age; 
     breed;
 }
+
+class Rabbit {
+    neme;
+    age;
+    color;
+}
+
